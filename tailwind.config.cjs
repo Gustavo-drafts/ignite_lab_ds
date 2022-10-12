@@ -28,6 +28,8 @@ module.exports = {
         500: '#4338ca',
         300: '#9be1fb',
       },
+      
+      transparent: 'transparent',
     },
     extend: {
       fontFamily: {
